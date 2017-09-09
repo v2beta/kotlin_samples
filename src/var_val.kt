@@ -11,9 +11,5 @@ fun main(Args:Array<String>){
     val firstVAL = "is kotlin awesome?"
     println(firstVAL)
 
-    /* firstVAL = "may be" val cannot be reassigned */
-
-    // if you want to use firstVAL again, you must reassign firstVAL
-    // val firstVAL = "yes i reassigned"
-    // println(firstVAL)
+    /* firstVAL = "may be" val cannot be reassigned*/
 }
